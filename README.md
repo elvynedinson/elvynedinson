@@ -20,13 +20,6 @@ Mi objetivo es desarrollarme como un **ingeniero de software de alto nivel**, co
 
 ---
 
-### 🧠 Proyectos destacados (próximamente)
-🔹 **Senva App** – Aplicación móvil para campañas sociales, construida con Kotlin + Firebase.  
-🔹 **Mi portafolio web** – (En construcción)  
-🔹 Más por venir...
-
----
-
 ### 📫 ¿Hablamos?
 Puedes encontrarme en:
 - LinkedIn: [linkedin.com/in/elvynedinson](https://linkedin.com/in/elvynedinson) *(si aún no tienes el perfil, te ayudo a crear uno)*
