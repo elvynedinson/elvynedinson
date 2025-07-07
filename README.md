@@ -22,8 +22,8 @@ Mi objetivo es desarrollarme como un **ingeniero de software de alto nivel**, co
 
 ### 📫 ¿Hablamos?
 Puedes encontrarme en:
-- LinkedIn: [linkedin.com/in/elvynedinson](https://linkedin.com/in/elvynedinson) *(si aún no tienes el perfil, te ayudo a crear uno)*
-- Correo: elvyn.dev@gmail.com *(puedes crear uno profesional si aún no tienes)*
+- LinkedIn: [linkedin.com/in/elvynedinson](www.linkedin.com/in/elvyn-paucar-ponce-71bbb9300)
+- Correo: elvyn.paucar.ponce@gmail.com
 
 ---
 
